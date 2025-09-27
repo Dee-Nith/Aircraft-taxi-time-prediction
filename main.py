@@ -1,5 +1,9 @@
 """
 Main script to run aircraft taxi time prediction models.
+
+Author: Deepak Annanth
+GitHub: https://github.com/Dee-Nith
+Email: deepak.annanth@gmail.com
 """
 
 import sys

@@ -1,5 +1,9 @@
 # Results Analysis
 
+**Author:** Deepak Annanth  
+**GitHub:** [@Dee-Nith](https://github.com/Dee-Nith)  
+**Email:** deepak.annanth@gmail.com
+
 ## Model Performance Comparison
 
 ### Backpropagation Neural Network (BPNN)

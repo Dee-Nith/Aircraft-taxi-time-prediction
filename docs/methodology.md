@@ -1,5 +1,9 @@
 # Methodology
 
+**Author:** Deepak Annanth  
+**GitHub:** [@Dee-Nith](https://github.com/Dee-Nith)  
+**Email:** deepak.annanth@gmail.com
+
 ## Problem Formulation
 
 The aircraft taxi time prediction problem is formulated as a regression task where we aim to predict the time an aircraft takes to taxi from gate to runway (or vice versa) based on various operational and environmental factors.

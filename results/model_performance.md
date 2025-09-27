@@ -1,5 +1,9 @@
 # Model Performance Results
 
+**Author:** Deepak Annanth  
+**GitHub:** [@Dee-Nith](https://github.com/Dee-Nith)  
+**Email:** deepak.annanth@gmail.com
+
 ## Summary
 
 This document presents the performance results of different machine learning models for aircraft taxi time prediction.
